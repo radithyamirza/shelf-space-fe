@@ -13,7 +13,7 @@ const Navbar = () => {
             <Link to={"/books"}>
                 <p className="bg-[#403D39] px-3 py-2">Add book</p>
             </Link>
-            <Link to={"/log-in"}>
+            <Link to={"/login"}>
                 <p className="bg-[#403D39] px-3 py-2">Log in</p>
             </Link>
             <Link to={"/sign-up"}>
